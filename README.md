@@ -1,7 +1,7 @@
 ## Leandro França
 
-- 🔭 Trabalhando com automação
-- 🌱 Estudando selenium 
+- 🔭 Trabalhando como suporte
+- 🌱 Estudando Java
 - 📫 Contate-me no email: leandro24798@gmail.com
 
 <br clear="both">
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
 </div>
 
 ###
